@@ -352,12 +352,19 @@ namespace XOApplication
             DialogResult res = saveFileDialog.ShowDialog();
             if (res != DialogResult.OK)
                 return;*/
-            
-            var writer = new XmlSerializer(typeof(List<Partija>));
-            var wfile = new StreamWriter("partije.xml");
-            writer.Serialize(wfile,tabla.lista);
-            wfile.Close();
-            MessageBox.Show("Nove partije su dodate");
+            try
+            {
+                var writer = new XmlSerializer(typeof(List<Partija>));
+                var wfile = new StreamWriter("partije.xml");
+                writer.Serialize(wfile, tabla.lista);
+                wfile.Close();
+                MessageBox.Show("Nove partije su dodate");
+            }
+            catch(SerializationException u)
+            {
+                MessageBox.Show("Neuspesna serijalizacija",u.Source);
+            }
+
         }
 
         private void opentoolStripButton_Click(object sender, EventArgs e)
