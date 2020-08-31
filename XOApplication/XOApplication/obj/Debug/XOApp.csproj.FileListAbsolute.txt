@@ -1,0 +1,20 @@
+C:\Users\I V A\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\I V A\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\I V A\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\I V A\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\XOApp.csprojAssemblyReference.cache
+C:\Users\I V A\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\I V A\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\I V A\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\XOApp.csproj.GenerateResource.cache
+C:\Users\I V A\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\XOApp.csproj.CoreCompileInputs.cache
+C:\Users\I V A\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\I V A\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\bin\Debug\WindowsFormsApp5.exe.config
+D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\bin\Debug\WindowsFormsApp5.exe
+D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\bin\Debug\WindowsFormsApp5.pdb
+D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\XOApp.csprojAssemblyReference.cache
+D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\XOApp.csproj.GenerateResource.cache
+D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\XOApp.csproj.CoreCompileInputs.cache
+D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\WindowsFormsApp5.exe
+D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\WindowsFormsApp5.pdb
+D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\XOApplication.Forma.resources
