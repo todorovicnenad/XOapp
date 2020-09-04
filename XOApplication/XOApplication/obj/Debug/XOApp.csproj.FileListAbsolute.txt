@@ -18,3 +18,13 @@ D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\XOApp.cs
 D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\WindowsFormsApp5.exe
 D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\WindowsFormsApp5.pdb
 D:\nesa\master\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\XOApplication.Forma.resources
+C:\Faks\teorijapj\Projekat\XOApplication\XOApplication\bin\Debug\WindowsFormsApp5.exe.config
+C:\Faks\teorijapj\Projekat\XOApplication\XOApplication\bin\Debug\WindowsFormsApp5.exe
+C:\Faks\teorijapj\Projekat\XOApplication\XOApplication\bin\Debug\WindowsFormsApp5.pdb
+C:\Faks\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\XOApp.csprojAssemblyReference.cache
+C:\Faks\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\XOApplication.Forma.resources
+C:\Faks\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Faks\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\XOApp.csproj.GenerateResource.cache
+C:\Faks\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\XOApp.csproj.CoreCompileInputs.cache
+C:\Faks\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\WindowsFormsApp5.exe
+C:\Faks\teorijapj\Projekat\XOApplication\XOApplication\obj\Debug\WindowsFormsApp5.pdb
